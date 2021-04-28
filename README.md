@@ -5,7 +5,7 @@ Q: Who is Mixerboy24?
 ```
 A: 
 Mixer (Realname Atte) is 20 yo man from Finland. 
-Mixer is Developer, System Admin, Flero Media / LocalghostFI CEO and Media Producer.    
+Mixer is Developer, System Admin, Flero Media Oy Ltd / LocalghostFI CEO and Media Producer.    
 Mixer living Jyväskylä, Finland with two Shetland Sheep dogs.    
 ```     
      
