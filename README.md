@@ -25,6 +25,6 @@ Multicraft (Minecraft Server manager program) etc.. :D
 ```
       
 Q: What is your social medias?     
-A: https://linktr.ee/Mixerboy24
+A: https://linktr.ee/Mixerboy24    
 Discord: Mixerboy24#0024
 
