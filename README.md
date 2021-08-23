@@ -28,3 +28,4 @@ Q: What is your social medias?
 A: https://linktr.ee/Mixerboy24    
 Discord: Mixerboy24#0024
 
+[![Mixerby24's github stats](https://github-readme-stats.vercel.app/api?username=mixerboy24&count_private=true&theme=nord&show_icons=true)](https://github.com/mixerboy24/mixerboy24/blob/master/README.md)
