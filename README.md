@@ -9,7 +9,7 @@ Mixer (Realname Atte) is 21 yo man from Finland.
 Mixer is ICT Technician, Jr Dev, Streaming Platform Expert, Network- & Linux System Admin, Game Developer, Software/Game Translator,     
 Flero Media Oy Ltd / LocalghostFI CEO and Media Producer.    
 
-Mixer living Jyväskylä, Finland with two Shetland Sheep dogs.    
+Mixer living Tampere, Finland.    
 ```     
      
 Q: What programming languages do you use?     
