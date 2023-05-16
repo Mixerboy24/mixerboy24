@@ -4,10 +4,10 @@
 Q: Who is Mixerboy24?    
 ```
 A: 
-Mixer (Realname Atte) is 21 yo man from Finland. 
+Mixer (Realname Atte) is 22 yo man from Finland. 
 
 Mixer is ICT Technician, Jr Dev, Streaming Platform Expert, Network- & Linux System Admin, Game Developer, Software/Game Translator,     
-Flero Media Oy Ltd / LocalghostFI CEO and Media Producer.    
+LocalghostFI ICT Technician and Media Producer.    
 
 Mixer living Tampere, Finland.    
 ```     
@@ -28,7 +28,7 @@ Multicraft (Minecraft Server manager program) etc.. :D
 ```
       
 Q: What is your social medias?     
-A: https://linktr.ee/Mixerboy24    
+A: https://mb24.fi    
 Discord: Mixerboy24#0024
 
 [![Mixerby24's github stats](https://github-readme-stats.vercel.app/api?username=mixerboy24&count_private=true&theme=nord&show_icons=true)](https://github.com/mixerboy24/mixerboy24/blob/master/README.md)
