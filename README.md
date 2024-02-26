@@ -4,7 +4,7 @@
 Q: Who is Mixerboy24?    
 ```
 A: 
-Mixer (Realname Atte) is 22 yo man from Finland. 
+Mixer (Realname Atte) is 23 yo man from Finland. 
 
 Mixer is ICT Technician, Jr Dev, Streaming Platform Expert, Network- & Linux System Admin, Game Developer, Software/Game Translator,     
 LocalghostFI ICT Technician and Media Producer.    
