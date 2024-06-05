@@ -23,7 +23,7 @@ Virtual: VMware, Virtual Box anf Proxmox
 Q: What programs do you use or know?     
 ```
 A:
-WHMCS, WordPress, Cpanel, Visual Studio Code, Visual Studio, Docker, NodeJS, Termius, Eclipse,
+WHMCS, WordPress, Cpanel, Webuzo, Ptero, Visual Studio Code, Visual Studio, Docker, NodeJS, Termius, Eclipse,
 Multicraft (Minecraft Server manager program) etc.. :D
 ```
       
