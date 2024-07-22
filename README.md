@@ -17,7 +17,7 @@ Q: What programming languages do you use?
 A: 
 I using JavaScript, Java, HTML, PHP, C#.     
 Database: MySQL, MS-SQL.
-Virtual: VMware, Virtual Box anf Proxmox
+Virtual: VMware, Virtual Box and Proxmox
 ```
     
 Q: What programs do you use or know?     
